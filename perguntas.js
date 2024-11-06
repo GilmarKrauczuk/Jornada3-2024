@@ -11,13 +11,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é HTML?',
-    'O HTML é uma linguagem de marcação.'
+    'Filosofia',
+    'De quem é a famosa frase “Penso, logo existo”?',
+    'Descartes.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é HTML?',
-    'O HTML é uma linguagem de marcação.'
+    'Quimica',
+    'Atualmente, quantos elementos químicos a tabela periódica possui?',
+    '118.'
+)
+
+criaCartao(
+    'Espanhol',
+    'Qual a tradução da frase “Fabiano cogió su saco antes de salir”?',
+    'Fabiano pegou seu paletó antes de sair.'
 )
