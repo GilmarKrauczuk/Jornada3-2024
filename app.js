@@ -21,7 +21,6 @@ function viraCartao() {
 }
 cartao.addEventListener('click', viraCartao)
 
-    let container = document.getElementById('container')
+
     container.appendChild(cartao)
-    //console.log(categoria, pergunta, resposta);
 }
