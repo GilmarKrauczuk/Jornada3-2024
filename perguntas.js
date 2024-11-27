@@ -1,6 +1,7 @@
 criaCartao(
     'Programação',
     'O que é HTML?',
+    'arquivo-python.png',
     'O HTML é uma linguagem de marcação.'
 )
 
